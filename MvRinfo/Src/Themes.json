@@ -2782,7 +2782,7 @@
             },
             {
               "property": "Fill",
-              "value": "%Palette.PrimaryColor1%"
+              "value": "RGBA(255; 191; 0; 1)"
             },
             {
               "property": "Font",
