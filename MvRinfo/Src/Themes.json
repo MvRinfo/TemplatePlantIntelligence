@@ -388,7 +388,7 @@
           "propertyValuesMap": [
             {
               "property": "BorderColor",
-              "value": "%Palette.InputBorderColor%"
+              "value": "RGBA(255; 191; 0; 1)"
             },
             {
               "property": "DisabledColor",
