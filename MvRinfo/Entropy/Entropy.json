@@ -5,12 +5,13 @@
     "App": 1,
     "Button1": 5,
     "Host": 3,
+    "Rectangle1": 7,
     "Screen1": 4,
     "TextInput1": 6
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "07/02/2023 22:19:26",
+  "HeaderLastSavedDateTimeUTC": "07/02/2023 22:27:49",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -24,12 +25,14 @@
   "OrderTemplate": {},
   "OrderXMLTemplate": {
     "button": 0,
+    "rectangle": 2,
     "text": 1
   },
   "OverridablePropertiesEntry": {
     "App": {},
     "Button1": {},
     "Host": {},
+    "Rectangle1": {},
     "Screen1": {},
     "TextInput1": {}
   },
@@ -39,6 +42,7 @@
     "App": 0,
     "Button1": 0,
     "Host": 0,
+    "Rectangle1": 0,
     "Screen1": 0,
     "TextInput1": 0
   },
